@@ -10,7 +10,6 @@ Technologies used:
 * jQuery
 * Polymorphic Associations
 * Complex Forms
-* Complex SQL queries
 * BassCSS with custom CSS
 * Rails RESTful API
 * Cookies
